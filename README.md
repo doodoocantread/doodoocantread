@@ -1,88 +1,51 @@
-\# Hi, I'm \[doodoo] 👋
-
-
+# Hi, I'm doodoocantread 👋
 
 ✨ Hold Original Intent, Stay Steadfast in Direction!
 
+---
 
+## About Me
 
-\## About Me
+I'm a developer passionate about building things that work and learning things that matter.
 
+- 🔍 Focus: Software development, automation, and problem-solving
+- 🌱 Learning: Expanding across full-stack and systems programming
+- 📫 Email: pmkhoi404@gmail.com
 
+---
 
-I'm a \[Your Title] passionate about \[Your Interests]. Currently based in \[Your Location].
+## I. Profile Pages
 
+| Platform   | Link                                      |
+|------------|-------------------------------------------|
+| GitHub     | https://github.com/doodoocantread         |
+| Email      | pmkhoi404@gmail.com                       |
 
+---
 
-\- 🎓 Education: \[Degree] from \[University]
+## II. Projects Presentation
 
-\- 🔍 Focus: \[Research/Work areas]
+| # | Project | Description | Repository |
+|---|---------|-------------|------------|
+| 01 | — | — | — |
+| 02 | — | — | — |
 
-\- 🌱 Learning: \[Current learning goals]
+> Projects coming soon. Stay tuned!
 
+---
 
+## III. Technology Stack
 
-\## 🔗 Connect With Me
+**Languages:** C++, Java, Python, HTML
 
+**Tools & Platforms:** Git, GitHub, Postman
 
+---
 
-| Platform | Link |
+## GitHub Stats
 
-|----------|------|
+![doodoocantread's GitHub stats](https://github-readme-stats.vercel.app/api?username=doodoocantread&show_icons=true&theme=default)
 
-| GitHub | https://github.com/yourname |
+---
 
-| LinkedIn | https://linkedin.com/in/yourname |
-
-| Portfolio | https://yourwebsite.com |
-
-| Email | your.email@gmail.com |
-
-
-
-\## 📚 Featured Projects
-
-
-
-1\. \*\*\[Project Name]\*\* - \[Brief description]
-
-&#x20;  - \[Technologies used]
-
-&#x20;  - \[Link to repo]
-
-
-
-2\. \*\*\[Project Name]\*\* - \[Brief description]
-
-&#x20;  - \[Technologies used]
-
-&#x20;  - \[Link to repo]
-
-
-
-\## 🛠 Tech Stack
-
-
-
-\*\*Languages\*\*: Python, JavaScript, Java, C++
-
-
-
-\*\*Tools\*\*: Git, Docker, VS Code
-
-
-
-\## 📊 GitHub Stats
-
-
-
-!\[Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourname\&show\_icons=true)
-
-
-
-\---
-
-
-
-Made with ❤️ by \[Your Name]
-
+Made with ❤️ by doodoocantread
