@@ -6,10 +6,11 @@
 
 ## About Me
 
-I'm a developer passionate about building things that work and learning things that matter.
+I'm a developer who loves security and dreams of becoming a **security engineer** 🛡️ — passionate about building things that work, breaking things to understand them, and learning things that matter.
 
-- 🔍 Focus: Software development, automation, and problem-solving
-- 🌱 Learning: Expanding across full-stack and systems programming
+- 🔍 Focus: Security engineering, vulnerability research, automation, and problem-solving
+- 🔨 Currently building: [SafetyWebbing](https://github.com/doodoocantread/SafetyWebbing) — *in progress*
+- 🌱 Learning: Web application security, full-stack and systems programming
 - 📫 Email: pmkhoi404@gmail.com
 
 ---
@@ -25,12 +26,12 @@ I'm a developer passionate about building things that work and learning things t
 
 ## II. Projects Presentation
 
-| # | Project | Description | Repository |
-|---|---------|-------------|------------|
-| 01 | — | — | — |
-| 02 | — | — | — |
+| # | Project | Description | Status | Repository |
+|---|---------|-------------|--------|------------|
+| 01 | SafetyWebbing | Scans an authorized local web app with an isolated AI agent, then turns the findings into a vulnerability report. | 🚧 In Progress | [doodoocantread/SafetyWebbing](https://github.com/doodoocantread/SafetyWebbing) |
+| 02 | — | — | — | — |
 
-> Projects coming soon. Stay tuned!
+> More projects coming soon. Stay tuned!
 
 ---
 
